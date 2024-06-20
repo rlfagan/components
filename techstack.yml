@@ -1,0 +1,1275 @@
+repo_name: rlfagan/components
+report_id: 2fce0440d32d30e53c5de171ae9c95fa
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-20T23:12:56+00:00'
+requested_by: dependabot[bot]
+provider: github
+branch: master
+detected_tools_count: 103
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/rlfagan/components
+  detection_source: Repo Metadata
+- name: Handlebars.js
+  description: Minimal Templating on Steroids
+  website_url: http://handlebarsjs.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/rlfagan/components
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/rlfagan/components
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/rlfagan/components
+  detection_source: Repo Metadata
+- name: YAML
+  description: A straightforward machine parsable data serialization format designed
+    for human readability and interaction
+  website_url: http://www.yaml.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1744/yaml.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/package.json
+  detection_source: package.json
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/package.json
+  detection_source: package.json
+- name: Angular
+  description: A platform for building mobile and desktop web applications
+  website_url: https://angular.io
+  version: 9.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/package.json
+  detection_source: package.json
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  version: 14.16.1
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/.nvmrc
+  detection_source: Repo Metadata
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/package.json
+  detection_source: package.json
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 6.6.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/scripts/caretaking/firebase-functions/yarn.lock
+  detection_source: package.json
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/package.json
+  detection_source: package.json
+- name: Firebase
+  description: The Realtime App Platform
+  website_url: https://firebase.google.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/116/cZLxNFZS.jpg
+  detection_source_url: https://github.com/rlfagan/components/blob/master/package.json
+  detection_source: package.json
+- name: Bazel
+  description: Build and test software of any size, quickly and reliably
+  website_url: http://bazel.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/2697/default_85ab1999fe6310acaeece180990057d2e9ebfb3a.jpg
+  detection_source_url: https://github.com/rlfagan/components/blob/master/package.json
+  detection_source: package.json
+- name: CircleCI
+  description: Automate your development process quickly, safely, and at scale
+  website_url: https://circleci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/rlfagan/components/blob/master/.circleci/config.yml
+  detection_source: ".circleci/config.yml"
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/rlfagan/components
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/.github/workflows/lock-closed.yml
+  detection_source: ".github/workflows/lock-closed.yml"
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  version: 2.8.0
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 4.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/rlfagan/components/blob/master/package.json
+  detection_source: package.json
+- name: Octokit
+  description: GitHub API Client Library for .NET
+  website_url: https://github.com/octokit/octokit.net
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Tools for GitHub
+  image_url: https://img.stackshare.io/service/9827/octokit-dotnet_2.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/package.json
+  detection_source: package.json
+- name: Protractor
+  description: End-to-end test framework for Angular and AngularJS applications
+  website_url: http://angular.github.io/protractor
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1754/protractor-logo1.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: RequireJS
+  description: JavaScript file and module loader
+  website_url: http://requirejs.org/
+  version: 2.3.6
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/852/1781835.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: Stylelint
+  description: A mighty, modern CSS linter
+  website_url: http://stylelint.io/
+  version: 13.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5446/V9JsvPul_400x400.jpg
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: TSLint
+  description: An extensible linter for the TypeScript language
+  website_url: https://github.com/palantir/tslint
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/package.json
+  detection_source: package.json
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/rlfagan/components/blob/master/.yarnrc
+  detection_source: ".yarnrc"
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: highlight.js
+  description: Syntax highlighter in JavaScript
+  website_url: https://highlightjs.org/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/package.json
+  detection_source: package.json
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/scripts/caretaking/firebase-functions/package.json
+  detection_source: scripts/caretaking/firebase-functions/package.json
+- name: rollup
+  description: The next-generation JavaScript module bundler
+  website_url: http://rollupjs.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/rlfagan/components/blob/master/package.json
+  detection_source: package.json
+- name: Firefox
+  description: Mozilla's Web Browser
+  website_url: https://www.mozilla.org/en-US/firefox/
+  open_source: false
+  hosted_saas: false
+  category: Back Office
+  sub_category: Web Browser
+  image_url: https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/package.json
+  detection_source: package.json
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.29.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/rlfagan/components
+  detection_source: Repo Metadata
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/package.json
+  detection_source: package.json
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/rlfagan/components/blob/master/package.json
+  detection_source: package.json
+- name: minimist
+  description: Parse argument options
+  package_url: https://www.npmjs.com/minimist
+  version: 1.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15918/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/scripts/caretaking/firebase-functions/yarn.lock
+  detection_source: package.json
+  vulnerabilities:
+  - name: Prototype Pollution in minimist
+    cve_id: CVE-2021-44906
+    cve_url: https://github.com/advisories/GHSA-xvch-5gv4-984h
+    detected_date: Mar 22
+    severity: critical
+    first_patched: 1.2.6
+- name: marked
+  description: A markdown parser built for speed
+  package_url: https://www.npmjs.com/marked
+  version: 0.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16065/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/scripts/caretaking/firebase-functions/yarn.lock
+  detection_source: package.json
+  vulnerabilities:
+  - name: Inefficient Regular Expression Complexity in marked
+    cve_id: CVE-2022-21681
+    cve_url: https://github.com/advisories/GHSA-5v2h-r2cx-5xgj
+    detected_date: Jan 15
+    severity: high
+    first_patched: 4.0.10
+  - name: Inefficient Regular Expression Complexity in marked
+    cve_id: CVE-2022-21680
+    cve_url: https://github.com/advisories/GHSA-rrrm-qjm4-v8hf
+    detected_date: Jan 15
+    severity: high
+    first_patched: 4.0.10
+- name: minimatch
+  description: A glob matcher in javascript
+  package_url: https://www.npmjs.com/minimatch
+  version: 3.0.4
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16195/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/scripts/caretaking/firebase-functions/yarn.lock
+  detection_source: package.json
+  vulnerabilities:
+  - name: minimatch ReDoS vulnerability
+    cve_id: CVE-2022-3517
+    cve_url: https://github.com/advisories/GHSA-f8q6-p94x-37v3
+    detected_date: Oct 21
+    severity: high
+    first_patched: 3.0.5
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  version: 2.29.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+  vulnerabilities:
+  - name: 'Path Traversal: ''dir/../../filename'' in moment.locale'
+    cve_id: CVE-2022-24785
+    cve_url: https://github.com/advisories/GHSA-8hfj-j24r-96c4
+    detected_date: Apr 9
+    severity: high
+    first_patched: 2.29.2
+  - name: Moment.js vulnerable to Inefficient Regular Expression Complexity
+    cve_id: CVE-2022-31129
+    cve_url: https://github.com/advisories/GHSA-wc69-rhjr-hc9g
+    detected_date: Jul 7
+    severity: high
+    first_patched: 2.29.4
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 2.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/scripts/caretaking/firebase-functions/yarn.lock
+  detection_source: package.json
+  vulnerabilities:
+  - name: node-fetch forwards secure headers to untrusted sites
+    cve_id: CVE-2022-0235
+    cve_url: https://github.com/advisories/GHSA-r683-j2x4-v87g
+    detected_date: Jan 22
+    severity: high
+    first_patched: 2.6.7
+- name: shelljs
+  description: Portable Unix shell commands for Node.js
+  package_url: https://www.npmjs.com/shelljs
+  version: 0.8.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+  vulnerabilities:
+  - name: Improper Privilege Management in shelljs
+    cve_id: CVE-2022-0144
+    cve_url: https://github.com/advisories/GHSA-4rq4-32rv-6wp6
+    detected_date: Jan 22
+    severity: high
+    first_patched: 0.8.5
+  - name: Improper Privilege Management in shelljs
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-64g7-mvw6-v9qj
+    detected_date: Jan 15
+    severity: moderate
+    first_patched: 0.8.5
+- name: terser
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/terser
+  version: 4.8.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16562/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+  vulnerabilities:
+  - name: Terser insecure use of regular expressions leads to ReDoS
+    cve_id: CVE-2022-25858
+    cve_url: https://github.com/advisories/GHSA-4wf5-vphf-c2xc
+    detected_date: Jul 20
+    severity: high
+    first_patched: 4.8.1
+- name: semver
+  description: The semantic version parser used by npm
+  package_url: https://www.npmjs.com/semver
+  version: 5.7.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/scripts/caretaking/firebase-functions/yarn.lock
+  detection_source: package.json
+  vulnerabilities:
+  - name: semver vulnerable to Regular Expression Denial of Service
+    cve_id: CVE-2022-25883
+    cve_url: https://github.com/advisories/GHSA-c2qf-rxjj-qqgw
+    detected_date: Jun 23
+    severity: moderate
+    first_patched: 5.7.2
+- name: "@angular-devkit/core"
+  description: Angular DevKit - Core Utility Library
+  package_url: https://www.npmjs.com/@angular-devkit/core
+  version: 12.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16682/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: "@angular-devkit/schematics"
+  description: Angular Schematics - Library
+  package_url: https://www.npmjs.com/@angular-devkit/schematics
+  version: 12.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16789/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: "@angular/animations"
+  description: Angular - animations integration with web-animations
+  package_url: https://www.npmjs.com/@angular/animations
+  version: 12.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: "@angular/common"
+  description: Angular - commonly needed directives and services
+  package_url: https://www.npmjs.com/@angular/common
+  version: 12.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: "@angular/compiler"
+  description: Angular - the compiler library
+  package_url: https://www.npmjs.com/@angular/compiler
+  version: 9.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: "@angular/compiler-cli"
+  description: Angular - the compiler CLI for Node.js
+  package_url: https://www.npmjs.com/@angular/compiler-cli
+  version: 12.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: "@angular/forms"
+  description: Angular - directives and services for creating forms
+  package_url: https://www.npmjs.com/@angular/forms
+  version: 12.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: "@angular/platform-browser"
+  description: Angular - library for using Angular in a web browser
+  package_url: https://www.npmjs.com/@angular/platform-browser
+  version: 12.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: "@angular/platform-browser-dynamic"
+  description: Angular - library for using Angular in a web browser with JIT compilation
+  package_url: https://www.npmjs.com/@angular/platform-browser-dynamic
+  version: 12.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: "@angular/platform-server"
+  description: Angular - library for using Angular in Node.js
+  package_url: https://www.npmjs.com/@angular/platform-server
+  version: 12.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16296/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: "@angular/router"
+  description: Angular - the routing library
+  package_url: https://www.npmjs.com/@angular/router
+  version: 12.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: "@octokit/rest"
+  description: GitHub REST API client for Node.js
+  package_url: https://www.npmjs.com/@octokit/rest
+  version: 16.28.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: "@schematics/angular"
+  description: Schematics specific to Angular
+  package_url: https://www.npmjs.com/@schematics/angular
+  version: 12.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17661/default_eb9caf7d7fb4d231f7e3b04a8c1fbef6fcd9fd73.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: "@types/fs-extra"
+  description: TypeScript definitions for fs-extra
+  package_url: https://www.npmjs.com/@types/fs-extra
+  version: 8.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16170/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/scripts/caretaking/firebase-functions/yarn.lock
+  detection_source: package.json
+- name: "@types/glob"
+  description: TypeScript definitions for Glob
+  package_url: https://www.npmjs.com/@types/glob
+  version: 7.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16391/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: "@types/googlemaps"
+  description: TypeScript definitions for Google Maps JavaScript API
+  package_url: https://www.npmjs.com/@types/googlemaps
+  version: 3.43.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17642/default_9126b5a628d81e3d41c9b1190587ab1aec9165c5.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: "@types/gulp"
+  description: TypeScript definitions for Gulp
+  package_url: https://www.npmjs.com/@types/gulp
+  version: 4.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16929/default_7fe969828600a90e84607bfa2a19979e53a0579d.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: "@types/inquirer"
+  description: TypeScript definitions for inquirer
+  package_url: https://www.npmjs.com/@types/inquirer
+  version: 7.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16530/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: "@types/jasmine"
+  description: TypeScript definitions for Jasmine
+  package_url: https://www.npmjs.com/@types/jasmine
+  version: 3.6.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: "@types/marked"
+  description: TypeScript definitions for Marked
+  package_url: https://www.npmjs.com/@types/marked
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17650/default_894a45ad01fa93ac472db719cb1ef1b89f2924f0.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: "@types/minimist"
+  description: TypeScript definitions for minimist
+  package_url: https://www.npmjs.com/@types/minimist
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16976/default_824835a71140f223a333a5e10225c10368f12857.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 14.0.26
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/scripts/caretaking/firebase-functions/yarn.lock
+  detection_source: package.json
+- name: "@types/node-fetch"
+  description: TypeScript definitions for node-fetch
+  package_url: https://www.npmjs.com/@types/node-fetch
+  version: 2.5.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16459/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: "@types/selenium-webdriver"
+  description: TypeScript definitions for Selenium WebDriverJS
+  package_url: https://www.npmjs.com/@types/selenium-webdriver
+  version: 3.0.17
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17263/default_78541a280e8cac42279d6c363e71e5b8f462e962.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: "@types/semver"
+  description: TypeScript definitions for semver
+  package_url: https://www.npmjs.com/@types/semver
+  version: 7.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16694/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: browser-sync
+  description: Live CSS Reload &amp; Browser Syncing
+  package_url: https://www.npmjs.com/browser-sync
+  version: 2.26.13
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16034/default_a9b6ac3c2fe43713f9a8e43d4668d0352ad0d247.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 1.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/scripts/caretaking/firebase-functions/yarn.lock
+  detection_source: package.json
+- name: codelyzer
+  description: Linting for Angular applications
+  package_url: https://www.npmjs.com/codelyzer
+  version: 6.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15956/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: conventional-changelog
+  description: Generate a changelog from git metadata
+  package_url: https://www.npmjs.com/conventional-changelog
+  version: 3.1.24
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16618/default_9012166d3e51cea5db6b4e69c80ace1c50b7509d.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: diff
+  description: A javascript text diff implementation
+  package_url: https://www.npmjs.com/diff
+  version: 3.5.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16509/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: firebase-admin
+  description: Firebase admin SDK for Node.js
+  package_url: https://www.npmjs.com/firebase-admin
+  version: 9.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17151/default_21a9522c66101ebad0e63609af74acb35fe29a0a.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/scripts/caretaking/firebase-functions/yarn.lock
+  detection_source: scripts/caretaking/firebase-functions/package.json
+- name: fs-extra
+  description: Fs-extra contains methods that aren't included in the vanilla Node.js
+    fs package
+  package_url: https://www.npmjs.com/fs-extra
+  version: 0.23.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/scripts/caretaking/firebase-functions/yarn.lock
+  detection_source: package.json
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.1.6
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/scripts/caretaking/firebase-functions/yarn.lock
+  detection_source: package.json
+- name: gulp-cli
+  description: Command line interface for gulp
+  package_url: https://www.npmjs.com/gulp-cli
+  version: 2.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16957/default_277303773c2bdb575ee8f4bfe869f0a33d6755b2.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: inquirer
+  description: A collection of common interactive command line user interfaces
+  package_url: https://www.npmjs.com/inquirer
+  version: 6.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15911/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/scripts/caretaking/firebase-functions/yarn.lock
+  detection_source: package.json
+- name: jasmine-core
+  description: Official packaging of Jasmine's core files for use by Node.js projects
+  package_url: https://www.npmjs.com/jasmine-core
+  version: 3.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: karma-browserstack-launcher
+  description: A Karma plugin. Launch any browser on BrowserStack!
+  package_url: https://www.npmjs.com/karma-browserstack-launcher
+  version: 1.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17310/default_6afdd1bc7e3815a18b56c31d0b4acf372c00f6e2.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: karma-chrome-launcher
+  description: A Karma plugin. Launcher for Chrome and Chrome Canary
+  package_url: https://www.npmjs.com/karma-chrome-launcher
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: karma-firefox-launcher
+  description: A Karma plugin. Launcher for Firefox
+  package_url: https://www.npmjs.com/karma-firefox-launcher
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16026/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: karma-jasmine
+  description: A Karma plugin - adapter for Jasmine testing framework
+  package_url: https://www.npmjs.com/karma-jasmine
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: karma-requirejs
+  description: A Karma plugin. Adapter for RequireJS framework
+  package_url: https://www.npmjs.com/karma-requirejs
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16817/default_31a4e0e11d348225088320f3a5c5ea6fa49c27ad.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: karma-sauce-launcher
+  description: A Karma plugin. Launch any browser on SauceLabs!
+  package_url: https://www.npmjs.com/karma-sauce-launcher
+  version: 2.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16460/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: karma-sourcemap-loader
+  description: Karma plugin that locates and loads existing javascript source map
+    files
+  package_url: https://www.npmjs.com/karma-sourcemap-loader
+  version: 0.3.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16011/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: madge
+  description: Create graphs from module dependencies
+  package_url: https://www.npmjs.com/madge
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18251/default_d7af0607656aecc036ca87d563e99619deb7cf84.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: merge2
+  description: Merge multiple streams into one stream in sequence or parallel
+  package_url: https://www.npmjs.com/merge2
+  version: 1.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16389/default_f1e46d83300118af569c79b07f85830bc788c2d1.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: parse5
+  description: HTML parser and serializer
+  package_url: https://www.npmjs.com/parse5
+  version: 5.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16753/default_c11d90814ded8fcd305b22fdc42b42a3111f1f6d.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: reflect-metadata
+  description: Polyfill for Metadata Reflection API
+  package_url: https://www.npmjs.com/reflect-metadata
+  version: 0.1.13
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16019/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: rollup-plugin-alias
+  description: Resolves aliases with Rollup
+  package_url: https://www.npmjs.com/rollup-plugin-alias
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16670/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: rollup-plugin-commonjs
+  description: Convert CommonJS modules to ES2015
+  package_url: https://www.npmjs.com/rollup-plugin-commonjs
+  version: 10.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15873/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: rollup-plugin-node-resolve
+  description: Bundle third-party dependencies in node_modules
+  package_url: https://www.npmjs.com/rollup-plugin-node-resolve
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15859/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: rollup-plugin-sourcemaps
+  description: Rollup plugin for grabbing source maps from sourceMappingURLs
+  package_url: https://www.npmjs.com/rollup-plugin-sourcemaps
+  version: 0.6.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16230/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: selenium-webdriver
+  description: The official WebDriver JavaScript bindings from the Selenium project
+  package_url: https://www.npmjs.com/selenium-webdriver
+  version: 3.5.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16708/default_848dc5bc612658cea8d631cff0259d9588c28fea.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: send
+  description: Better streaming static file server with Range and conditional-GET
+    support
+  package_url: https://www.npmjs.com/send
+  version: 0.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17093/default_1dbf402c11ef653fcaedc84e608a244e30ebfb87.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/scripts/caretaking/firebase-functions/yarn.lock
+  detection_source: package.json
+- name: systemjs
+  description: Dynamic ES module loader
+  package_url: https://www.npmjs.com/systemjs
+  version: 0.19.43
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16299/default_8b65a873fd3277d73483d6846fa38192391abf23.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 9.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: tsickle
+  description: Transpile TypeScript code to JavaScript with Closure annotations
+  package_url: https://www.npmjs.com/tsickle
+  version: 0.39.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16428/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 1.13.0
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/scripts/caretaking/firebase-functions/yarn.lock
+  detection_source: package.json
+- name: tsutils
+  description: Utilities for working with typescript's AST
+  package_url: https://www.npmjs.com/tsutils
+  version: 2.27.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17531/default_3c6aa8b4297562bfc2a090966a5bc0fad1d0b678.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
+- name: zone.js
+  description: Zones for JavaScript
+  package_url: https://www.npmjs.com/zone.js
+  version: 0.10.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/rlfagan/components/blob/master/yarn.lock
+  detection_source: package.json
